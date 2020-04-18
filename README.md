@@ -2,6 +2,9 @@
 
 This is a Google Chrome Extension that allows you to speed up WhatsApp audios in the web.
 
+Help me supporting this project and new ones
+https://bit.ly/supportThisProject
+
 
 ## How to install
 
