@@ -1,0 +1,12 @@
+.button2x {
+    font-size: 20px;
+    height: 100%;
+    font-weight: 500;
+    color: #919191;
+    background-color: transparent;
+    border:none;
+}
+
+.active {
+    color:#1f8ceb;
+}
